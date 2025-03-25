@@ -1,6 +1,6 @@
-# WebGPU Fundamental
-The Repository that research for browser based next generation graphic API, called "WebGPU".<br>
-I Implemented Fundamental geometry, animation, shader, scene.
+# Rand2 WebGPU
+Rand2 WebGPU is a research for browser based next generation graphic API, called "WebGPU".<br>
+Implemented Fundamental geometry, animation, shader, scene.
 
 ## How to use
 1. Install dependencies library
